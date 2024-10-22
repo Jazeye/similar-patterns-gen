@@ -64,7 +64,7 @@ To use this tool, you need Python installed on your system. Follow the instructi
 2. **Run the tool:**
     
     ```bash
-    python pattern_generator.py
+    python main.py
     ```
     
 
