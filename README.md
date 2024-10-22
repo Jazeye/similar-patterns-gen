@@ -79,8 +79,6 @@ Once the tool is running, follow these steps:
 **Example:**
 
 ```bash
-bash
-Copy code
 Pattern-based List Generator
 Provide a base pattern (e.g., 'aB1!', '1234', 'abcd', 'A12#').
 Enter the base pattern: aB1!
