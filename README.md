@@ -58,7 +58,7 @@ To use this tool, you need Python installed on your system. Follow the instructi
     
     ```bash
     git clone https://github.com/Jazeye/similar-patterns-gen.git
-    cd pattern-list-generator
+    cd similar-patterns-gen
     ```
     
 2. **Run the tool:**
